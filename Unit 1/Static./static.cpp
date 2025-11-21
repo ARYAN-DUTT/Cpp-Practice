@@ -2,7 +2,7 @@
 using namespace std;
 static void display(){
   // int a=10;
-  int a=10; //static variable
+  static int a=10; //static variable
   cout<<"a = "<<a<<endl;
   a++;
 }

@@ -12,6 +12,7 @@ union book{ //shared memory allocation
 int main(){
   book b1;
   cout<<"Memory Occupied by object b1 is : "<<sizeof(b1);
+  
   return 0;
 }
 // data is stored in 8bit chunks which can be broken down to 4bits max.
