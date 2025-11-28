@@ -1,7 +1,4 @@
-//
-// Created by DELL on 21-11-2025.
-//
-#include <iostream>
+-=#include <iostream>
 #include <fstream>
 using namespace std;
 int main(){
